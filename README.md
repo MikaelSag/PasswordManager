@@ -1,3 +1,5 @@
+## PassUTD
+A secure password manager that encrypts stored passwords and provides secure authentication, and protects against SQL injection attacks 
 
 ## Requirements
 - Python 3.x
