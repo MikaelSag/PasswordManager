@@ -1,5 +1,3 @@
-# PassUTD - Secure password Manager
-This app is a work in progress and is currently incomplete.
 
 ## Requirements
 - Python 3.x
